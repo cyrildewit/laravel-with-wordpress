@@ -1,6 +1,6 @@
-# Laravel with WordPress / Requiring wp-load.php
+# Laravel with WordPress / Store cookie on shared domain
 
-**Status:** To do
+**Status:** In progress
 
 ## Installing this trial
 
@@ -11,7 +11,3 @@ git clone https://github.com/cyrildewit/laravel-with-wordpress.git
 ```
 
 Secondly,
-
-## Work
-
-Laravel will retrieve all the pages from WordPress and render the content through blade.
