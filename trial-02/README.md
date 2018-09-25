@@ -1,17 +1,9 @@
-# Laravel with WordPress / Requiring wp-load.php
+# Laravel with WordPress / Load data from WordPress
 
-**Status:** To do
+**Status:** Done
 
-## Installing this trial
+## Summary
 
-First you have to clone this whole repository.
 
-```
-git clone https://github.com/cyrildewit/laravel-with-wordpress.git
-```
-
-Secondly,
-
-## Work
 
 Laravel will retrieve all the pages from WordPress and render the content through blade.
