@@ -1,0 +1,433 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#: admin/partials/ifso_shortcode_display_metabox.php:29
+#: admin/partials/ifso_trigger_settings_metabox.php:255
+#: admin/partials/ifso_trigger_settings_metabox.php:625
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2017-05-28 15:13+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/class-if-so-admin.php:71
+msgctxt "if-so"
+msgid "Triggers"
+msgstr ""
+
+#: admin/class-if-so-admin.php:72
+msgctxt "if-so"
+msgid "Trigger"
+msgstr ""
+
+#: admin/class-if-so-admin.php:73
+msgctxt "if-so"
+msgid "Add New"
+msgstr ""
+
+#: admin/class-if-so-admin.php:74
+msgid "Add New Trigger"
+msgstr ""
+
+#: admin/class-if-so-admin.php:75
+msgid "Edit Trigger"
+msgstr ""
+
+#: admin/class-if-so-admin.php:76
+msgid "New Trigger"
+msgstr ""
+
+#: admin/class-if-so-admin.php:77
+msgid "All Triggers"
+msgstr ""
+
+#: admin/class-if-so-admin.php:78
+msgid "View Trigger"
+msgstr ""
+
+#: admin/class-if-so-admin.php:79
+msgid "Search Triggers"
+msgstr ""
+
+#: admin/class-if-so-admin.php:80
+msgid "No Triggers found"
+msgstr ""
+
+#: admin/class-if-so-admin.php:81
+msgid "No Triggers found in the Trash"
+msgstr ""
+
+#: admin/class-if-so-admin.php:100
+msgid "Holds all the customized content triggers"
+msgstr ""
+
+#: admin/class-if-so-admin.php:186
+#: admin/partials/ifso_trigger_settings_metabox.php:234
+msgid "Version"
+msgstr ""
+
+#: admin/class-if-so-admin.php:187
+msgid "You are already using this query string"
+msgstr ""
+
+#: admin/class-if-so-admin.php:188
+msgid ""
+"It is not possible to create two query string triggers with the same name. "
+"If you publish now the second trigger will be deleted"
+msgstr ""
+
+#: admin/class-if-so-settings.php:73
+msgid "If So"
+msgstr ""
+
+#: admin/class-if-so-settings.php:74
+msgid "IfSo"
+msgstr ""
+
+#: admin/class-if-so-settings.php:84
+msgid "Add New"
+msgstr ""
+
+#: admin/class-if-so-settings.php:109
+msgid "Title"
+msgstr ""
+
+#: admin/class-if-so-settings.php:110
+msgid "Triggers"
+msgstr ""
+
+#: admin/class-if-so-settings.php:111 admin/class-if-so-settings.php:173
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-if-so-settings.php:122
+msgid "Date"
+msgstr ""
+
+#: admin/class-if-so-settings.php:164
+msgid "Trigger settings"
+msgstr ""
+
+#: admin/class-if-so-settings.php:212
+msgid "You do not have sufficient previlliege to edit the post"
+msgstr ""
+
+#: admin/partials/ifso_shortcode_display_metabox.php:15
+msgid "Copy and Paste the Following Shortcode"
+msgstr ""
+
+#: admin/partials/ifso_shortcode_display_metabox.php:18
+msgid "Or"
+msgstr ""
+
+#: admin/partials/ifso_shortcode_display_metabox.php:19
+msgid "PHP code to paste in your template"
+msgstr ""
+
+#: admin/partials/ifso_shortcode_display_metabox.php:20
+msgid "PHP code (for developers only)"
+msgstr ""
+
+#: admin/partials/ifso_shortcode_display_metabox.php:29
+msgid "Paste the shortcode in your website"
+msgstr ""
+
+#: admin/partials/ifso_shortcode_display_metabox.php:31
+msgid "Please publish in order to generate a shortcode"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:235
+msgid "optional"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:255
+msgid "Choose a condition and set the content to display if it's met"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:257
+msgid "Show this version instead of the default if"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:259
+msgid "Trigger"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:261
+msgid "Select a Trigger"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:263
+msgid "Referrer Source"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:266
+msgid "Custom URL (Query string)"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:269
+msgid "A/B Testing"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:272
+msgid "User Behavior"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:276
+msgid "Time & Date"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:283
+msgid "Choose a Referrer"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:284
+msgid "URL"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:285
+msgid "Page on My Website"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:286
+msgid "Common Referrers"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:291
+#, php-format
+msgid "50% of the sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:292
+#, php-format
+msgid "25% of the sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:294
+#, php-format
+msgid "75% of the sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:298
+msgid "Limit (Optional):"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:304
+msgid "Unlimited"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:305
+msgid "100 Sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:306
+msgid "200 Sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:307
+msgid "500 Sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:308
+msgid "1000 Sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:309
+msgid "2000 Sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:310
+#: admin/partials/ifso_trigger_settings_metabox.php:456
+msgid "Custom"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:322
+msgid "Start/End Date"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:323
+msgid "Schedule"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:346
+msgid "#schedule-"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:365
+msgid "Start at:"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:370
+#: admin/partials/ifso_trigger_settings_metabox.php:387
+msgid "None"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:371
+#: admin/partials/ifso_trigger_settings_metabox.php:376
+#: admin/partials/ifso_trigger_settings_metabox.php:388
+#: admin/partials/ifso_trigger_settings_metabox.php:394
+msgid "Pick a Date"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:382
+msgid "End at:"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:399
+msgid "Max no. of sessions"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:406
+msgid "New Visitor"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:408
+msgid "Returning Visitor"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:411
+msgid "Browser Language"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:413
+msgid "Logged In"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:414
+msgid "Logged Out"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:416
+msgid "Device"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:447
+msgid "Show this content after"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:452
+msgid "First Visit"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:453
+msgid "2 Visits"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:454
+msgid "3 Visits"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:464
+msgid "Choose no. of visits"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:492
+msgid "Choose a page"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:504
+msgid "Url"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:508
+msgid "Choose an operator"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:509
+msgid "Url Is"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:510
+msgid "Url Contains"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:511
+msgid "Url Is not"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:512
+msgid "Url Does not contain"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:516
+msgid "http://your-referrer.com"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:517
+msgid "Name your query string"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:522
+msgid "Add the following parameter at the end of the page URL:"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:524
+#: admin/partials/ifso_trigger_settings_metabox.php:530
+msgid "I.e., www.url.com?ifso=your-query-string"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:528
+msgid "Add the following parameter at the end of the page URL"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:537
+msgid "Google"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:538
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:622
+msgid "Default Content"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:625
+msgid "Fill in default content"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:627
+msgid "Default content shows when none of the conditions are met."
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:627
+msgid "Leave it blank if you"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:627
+msgid "do not"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:627
+msgid "want to display anything by default"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:675
+msgid "Add Another Version"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:681
+msgid "Update"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:681
+msgid "Publish"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:684
+msgid "Done"
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:685
+msgid "Press Publish and get a shortcode to paste in your website"
+msgstr ""

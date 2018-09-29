@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: If > So\n"
+"POT-Creation-Date: 2017-05-06 21:34+0000\n"
+"PO-Revision-Date: 2017-05-06 21:36+0000\n"
+"Last-Translator: bboldcoi <asafcarmeli@gmail.com>\n"
+"Language-Team: Hebrew\n"
+"Language: he-IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-KeywordsList: _e;__;_ex\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Poedit-SearchPath-0: ."
+
+#: admin/class-if-so-admin.php:100
+msgid "Holds all the customized content triggers"
+msgstr ""
+
+#: admin/class-if-so-settings.php:73
+msgid "If So"
+msgstr ""
+
+#: admin/class-if-so-settings.php:74
+msgid "IfSo"
+msgstr ""
+
+#: admin/class-if-so-settings.php:218
+msgid "You do not have sufficient previlliege to edit the post."
+msgstr ""
+
+#: admin/partials/ifso_trigger_settings_metabox.php:96
+msgid "http://your-referrer.com"
+msgstr ""
+
+#: admin/class-if-so-admin.php:74
+msgid "Add New Trigger"
+msgstr "צור טריגר חדש"
+
+#: admin/class-if-so-admin.php:75
+msgid "Edit Trigger"
+msgstr "ערוך טריגר"
+
+#: admin/class-if-so-admin.php:76
+msgid "New Trigger"
+msgstr "טריגר חדש"
+
+#: admin/class-if-so-admin.php:77
+msgid "All Triggers"
+msgstr "כל הטריגרים"
+
+#: admin/class-if-so-admin.php:78
+msgid "View Trigger"
+msgstr "צפה בטריגר"
+
+#: admin/class-if-so-admin.php:79
+msgid "Search Triggers"
+msgstr "חפש טריגר"
+
+#: admin/class-if-so-admin.php:80
+msgid "No Triggers found"
+msgstr "לא נמצאו טריגרים"
+
+#: admin/class-if-so-admin.php:81
+msgid "No Triggers found in the Trash"
+msgstr "לא נמצאו טריגרים באשפה"
+
+#: admin/class-if-so-admin.php:184
+msgid "You are already using this query string"
+msgstr "יש כבר שימוש ב query string הזה"
+
+#: admin/class-if-so-admin.php:185
+msgid ""
+"It is not possible to create two query string triggers with the same name. "
+"If you publish now the second trigger will be deleted"
+msgstr ""
+"לא ניתן לייצר שני query strings זהים. אם תשמרו עכשיו, הטריגר השני ימחק."
+
+#: admin/class-if-so-settings.php:84
+msgid "Add New"
+msgstr "צור חדש"
+
+#: admin/class-if-so-settings.php:109
+msgid "Title"
+msgstr "כותרת"
+
+#: admin/class-if-so-settings.php:110
+msgid "Triggers"
+msgstr "טריגרים"
+
+#: admin/class-if-so-settings.php:111
+msgid "Shortcode"
+msgstr "שורטקוד"
+
+#: admin/class-if-so-settings.php:112
+msgid "Date"
+msgstr "תאריך"
+
+#: admin/class-if-so-settings.php:154
+msgid "Trigger settings"
+msgstr "הגדרות טריגרים"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:15
+msgid "Copy and Paste the Following Shortcode"
+msgstr "הדבק את השורטוקוד הבא במקום באתר בו תרצה להציג את התוכן"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:18
+msgid "Or"
+msgstr "או"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:19
+msgid "PHP code to paste in your template"
+msgstr "קוד PHP"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:20
+msgid "PHP code (for developers only)"
+msgstr "לחץ כאן לצפייה בקוד PHP (למתכנתים בלבד)"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:28
+msgid "Please save in order to generate a shortcode"
+msgstr "אנא לחץ \"שמור\" על מנת לייצר שורטקוד להטמעה באתר"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:42
+msgid "Version"
+msgstr "גירסא"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:42
+msgid "optional"
+msgstr "אופציונאלי"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:46
+msgid "Show this content instead of the default if"
+msgstr "הצג תוכן זה במקום תוכן ברירת המחדל אם"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:48
+msgid "Trigger"
+msgstr "טריגר"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:50
+msgid "Choose Trigger"
+msgstr "בחר טריגר"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:52
+msgid "Referrer"
+msgstr "גורם מפנה"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:55
+msgid "Custom URL (Query string)"
+msgstr "כתובת מותאמת אישית (Query string)"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:61
+msgid "Choose a referrer"
+msgstr "בחר גורם מפנה"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:62
+msgid "Google"
+msgstr "גוגל"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:63
+msgid "Facebook"
+msgstr "פייסבוק"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:64
+msgid "Twitter"
+msgstr "טוויטר"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:65
+msgid "Youtube"
+msgstr "יוטיוב"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:66
+msgid "Page on this website"
+msgstr "עמוד באתר"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:67
+msgid "Custom"
+msgstr "מותאם אישית"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:72
+msgid "Choose a page"
+msgstr "בחר עמוד"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:84
+msgid "Url"
+msgstr "כתובת"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:88
+msgid "Choose an operator"
+msgstr "בחר כלל"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:89
+msgid "Url Is"
+msgstr "הכתובת היא"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:90
+msgid "Url Contains"
+msgstr "כתובת הדף מכילה"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:91
+msgid "Url Is not"
+msgstr "כתבות הדף איננה"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:92
+msgid "Url Does not contain"
+msgstr "כתובת הדף לא כוללת"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:97
+msgid "Name your query string"
+msgstr "תן שם ל- Query string"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:102
+msgid "Your custom url will be"
+msgstr "ה url שלך יראה כך"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:107
+msgid "Your custom url is"
+msgstr "ה url שלך הוא"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:140
+msgid "Default Content"
+msgstr "תוכן ברירת מחדל"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:141
+msgid "Default content shows when none of the conditions are met."
+msgstr "תוכן ברירת המחדל מוצג כאשר אף אחד מהתנאים שהוגדרו לא מתקיים"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:141
+msgid "Leave it blank if you"
+msgstr "השאר שדה זה ריק אם"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:141
+msgid "do not"
+msgstr "אינך"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:141
+msgid "want to display anything by default"
+msgstr "מעוניין להציג שום דבר כברירת מחדל"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:175
+msgid "Add Another Version"
+msgstr "הוסף גירסא נוספת"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:183
+msgid "Update"
+msgstr "עדכן"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:183
+msgid "Publish"
+msgstr "פרסם"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:187
+msgid "Done"
+msgstr "סיימת?"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:188
+msgid "Press Publish and get a shortcode to paste in your website"
+msgstr "לחץ \"פרסם\" וקבל שורטקוד להטמעה באתר"

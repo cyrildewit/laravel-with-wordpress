@@ -1,0 +1,92 @@
+/**
+ *	RTL ovveride
+ */
+
+@media (min-width: 992px) {
+	.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+		float: right;
+	}
+}
+
+
+/*//--------------------michael additions-------------------*/
+
+.recurrence-tip {
+    float: left !important;
+}
+
+.flag{
+	margin-left:5px;
+	margin-right:0;
+}
+
+.remove-autocomplete {
+    float: left;
+    padding-right: 120px;
+    right: 0;
+}
+/*//-------------------------------------*/
+
+.recurrence-option-title {
+    float: right;
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.recurrence-radio {
+	float:right;
+}
+.rule-toolbar-wrap h3 {
+    float: right;
+}
+
+.rule-toolbar-wrap h3 {
+    float: right;
+}
+
+.btn-delete {
+    float: left;
+	border-left: none;
+	border-right: 1px solid #dedfe0;
+}
+
+.btn-freeze {
+    border-right: 1px solid #dedfe0;
+    border-left:0;
+	float: left;
+}
+
+input.form-control.deviceformcontrol {
+    float: right;
+	margin: 4px 0 0 5px;
+}
+
+
+.version-count {
+	margin-right: 0;
+    margin-left: 1em;
+}
+
+tr.type-ifso_triggers .column-trigger {
+	text-align: right;
+}
+
+.rule-toolbar-wrap h3 img {
+    margin: 0 0 2px 9px;
+}
+
+.ifso-tm-section .text {
+    float: left;
+    margin-right: 5px;
+	margin-left:0;
+}
+
+.ifso-tm-section .tm-tip {
+    float: left;
+    margin-right: 5px;
+}
+
+.ifso-tm-section .circle {
+    float: left;
+ }
+
